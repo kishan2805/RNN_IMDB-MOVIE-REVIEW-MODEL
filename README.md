@@ -54,3 +54,7 @@ To make predictions on new reviews, use prediction.ipynb or run the following co
 
 This will start a Streamlit web application where you can input movie reviews and get the sentiment (positive/negative) in real-time.
 
+## Try out the Model
+https://rnnimdb-movie-review-model-eyek9jtbyxnhyqwi8hnmtb.streamlit.app/
+
+<img width="770" alt="Screenshot 2025-01-04 at 9 27 29 PM" src="https://github.com/user-attachments/assets/36d2d5a5-4761-4ee8-a0b7-39bab01cabc1" />
